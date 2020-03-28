@@ -1,0 +1,11 @@
+{
+    "name": "machanguele/app-laravel",
+    "description": "Projecto de aprendizado",
+    "authors": [
+        {
+            "name": "Machanguele",
+            "email": "josemachanguele@gmail.com"
+        }
+    ],
+    "require": {}
+}
